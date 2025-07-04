@@ -5,6 +5,7 @@ Praktikum ini dirancang untuk memahami konsep pembuatan kuis interaktif dengan f
 ## Deskripsi Aplikasi
 Aplikasi ini merupakan kuis edukatif interaktif yang mengangkat tema tokoh budaya Betawi, yaitu Benyamin Sueb. Pengguna diberikan pertanyaan dengan pilihan jawaban Benar atau Salah, dan aplikasi langsung memberikan umpan balik atas pilihan yang dipilih. Sistem mencatat jumlah jawaban benar dan salah secara otomatis, lalu menampilkan ringkasan skor dalam bentuk pop-up saat seluruh pertanyaan telah dijawab.
 ## Screenshot Emulator:
+![image](https://github.com/user-attachments/assets/326fe5a8-54db-4114-a36b-25533f8aa103)
 ## Penjelasan Program
 Aplikasi dibangun menggunakan framework Flutter dengan bahasa Dart, dan terdiri dari tiga file utama:
 - main.dart – Menyusun antarmuka utama dan mengatur alur logika kuis.
